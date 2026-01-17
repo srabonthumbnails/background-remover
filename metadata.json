@@ -1,0 +1,7 @@
+{
+  "name": "Background Extractor Pro",
+  "description": "An AI-powered tool to extract and reconstruct backgrounds from images by removing foreground subjects and text using Gemini's advanced image editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
